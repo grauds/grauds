@@ -28,8 +28,8 @@
   </br>
   </br>
 
-  <a href="https://github.com/grauds/grauds">
+  <!--a href="https://github.com/grauds/grauds">
     <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=grauds&hide_border=true&show_icons=true&card_width=495 />
-  </a>
+  </a-->
     
 </p>
