@@ -12,14 +12,3 @@
   </a>
 </p>
 
-<p align="center">
-  </br>
-  
-  <a href="https://github.com/grauds/grauds">
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=grauds&hide_border=true&langs_count=5&show_icons=true&card_width=495&hide=html,css>
-  
-  </br>
-  </br>
-
-    
-</p>
