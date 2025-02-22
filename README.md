@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  All my personal non-commercial projects here are gathered together under one flower brand Clematis which I invented for myself back in the year of 2000 to mark up code for my post-graduate studies. Ever since that days I publish more in hope it will be useful and shared in the community. The image itself is not under any restricted license and if someone proves this pretty flower is his/her, I'll gladly add a reference.  
+  All my personal non-commercial projects are gathered together under one flower brand Clematis which I invented for myself back in the year of 2000 to mark up code for my post-graduate studies. The image itself is not under any restricted license and if someone proves this pretty flower is his/her, I'll gladly add a reference.  
 </p>
 
 <p align="center">
