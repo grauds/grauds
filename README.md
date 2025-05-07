@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  Documentation for the technological stack of some projects is <a href="https://grauds.github.io/clematis.doc">now available</a>!
+</p>
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,typescript,angular,react,sass,docker" />
   </a>
